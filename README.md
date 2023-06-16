@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+Received help from tutor, but I still did not fully understand the assignment. The tutor couln't get access to the 'solved' version of the assignment, so ive tried to the best of my abilities with what information she provided to finish the project although I do have doubts that I did not finish this project correctly.  
